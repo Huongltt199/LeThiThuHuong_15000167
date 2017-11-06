@@ -1,4 +1,5 @@
 # LeThiThuHuong_15000167
+Họ tên SV: LÊ THỊ THU HƯỜNG_15000167
 Xác định yêu cầu đặc tả 
 Goals và business objectives
 
