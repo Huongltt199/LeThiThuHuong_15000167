@@ -1,5 +1,5 @@
 # LeThiThuHuong_15000167
-Xác định yêu cầu và đặc tả 
+Xác định yêu cầu đặc tả 
 Goals và business objectives
 - Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng => Tuy nhiên mục tiêu dài hạn, phần mềm cho phép khách hàng có thể sử dụng phần mềm để xem thông tin về khách sạn cũng như phòng ở trước khi đặt phòng, hoặc để dùng một số dịch vụ khác của khách sạn như vui chơi ăn uống,... Ngoài ra khách hàng cũng có thể đặt phòng online,sau đó saller sẽ xác nhận lại qua điện thoại, và lễ tân chỉ cần checkin cho khách.
 
