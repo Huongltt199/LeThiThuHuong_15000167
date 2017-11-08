@@ -1,9 +1,11 @@
 # LeThiThuHuong_15000167
 Họ tên SV: LÊ THỊ THU HƯỜNG_15000167
-Xác định yêu cầu đặc tả 
-Goals và business objectives
 
-- Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng
+GOALS
+
+- Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng để tực hiện các thao tác như quản lí thông tin phòng và khách sạn, tạo và xem các loại báo cáo, đặt chỗ/ Hủy đặt chỗ phòng, Checkin-Checkout, in hoá đơn và thanh toán cho khách hàng.
+
+BUSINESS OBJECTIVES
 
 - Nhân viên lễ tân có thể tìm phòng trống theo yêu cầu trực tiếp của khách, checkin cho khách đã đặt phòng hoặc đặt phòng trực tiếp, checkout cho khách và in hóa đơn thanh toán cho khách
 
